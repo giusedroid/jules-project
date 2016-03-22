@@ -1,0 +1,44 @@
+/*
+
+			OK, NOW GET BACK TO LESSON 4. 
+			YOU'LL NEED SOME HELP HERE.
+
+*/
+
+/*
+	MISSION 5 : revealing the map
+
+		- your target is the map div.
+		- remember that you can set a rule for an id
+		  with the # before that id, for example
+		  #map {
+	
+		  }
+		- make the div position relative
+		- make it 750px wide and 470px tall
+		- use the background-image rule to get your background
+			remember that you must use the url() prefix 
+			use the image img/map.jpg
+		- make the image as big as the div by using the property
+			background-size: 100%;
+		
+
+
+*/
+
+/* MISSION 6 : 
+	big images should be 100px x 100px
+	small images 40px x 40px
+
+*/
+
+/* . stands for class */
+.big {
+	/* something is missing here... */
+	height:;
+}
+
+.small{
+	/* something is missing here... */
+	width:;
+}
