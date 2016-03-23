@@ -18,7 +18,7 @@
 		- make it 750px wide and 470px tall
 		- use the background-image rule to get your background
 			remember that you must use the url() prefix 
-			use the image img/map.jpg
+			use the image ../img/map.jpg
 		- make the image as big as the div by using the property
 			background-size: 100%;
 		
@@ -26,9 +26,9 @@
 
 */
 
-/* MISSION 6 : 
-	big images should be 100px x 100px
-	small images 40px x 40px
+/* 	MISSION 6 : 
+		big images should be 100px x 100px
+		small images 40px x 40px
 
 */
 
@@ -42,3 +42,48 @@
 	/* something is missing here... */
 	width:;
 }
+
+/* 	MISSION 7 : 
+		- your targets are skull and cross
+			set their position to absolute
+			since they're nested in #map AND #map has position relative (not static)
+			#map will be their cooridnate reference system.
+		- cross must be 300 px from left and 300 px from the top
+		- skull must be 500 px from left and 230 px from the top
+*/
+
+/*	MISSION 8 :
+		- your target is the legend div. Access it through its id.
+		- make its position absolute, 30 px from the top and 30 px from the left
+		- make its background color BurlyWood 
+*/
+
+/* 	MISSION 9 :
+		complete the following selector to address only the heading	in the LEGEND
+*/
+/*something is missing*/{
+	font-size: 48px;
+	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+/*	MISSION 10 :
+		complete the following selector to address li within LEGEND
+		make the list dots desappear by setting list-style-type to none
+*/
+
+/* something is missing*/{
+
+} 
+
+/*	YAAAAARRRRR!!!
+	Thou haveth completed Capt. Philip's Quest!
+	Yarrrrr to thou.
+
+	If thou haveth done everrrything OK
+	thou may now clicketh on the red cross
+	and get thy TRRRRRRRREASUREEEEE!!
+
+*/
